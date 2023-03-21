@@ -1,4 +1,4 @@
-# hotelmgmt
+# Hotel Management
 
 A new Flutter project.
 
