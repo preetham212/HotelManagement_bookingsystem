@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "395585238364",
+    "firebase_url": "https://rvspsj-default-rtdb.firebaseio.com",
+    "project_id": "rvspsj",
+    "storage_bucket": "rvspsj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395585238364:android:9bbcc4b48eea2a3fe27d99",
+        "android_client_info": {
+          "package_name": "com.example.hotelmgmt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395585238364-giqf4vstiu0hc653jif4sgs25a4esrua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwcbBLQCyR1FZkeRNgsZZiSGMl19-9jNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395585238364-giqf4vstiu0hc653jif4sgs25a4esrua.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "395585238364-o8i642k32jl1kuik1difcpd3moiag483.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hotelmgmt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
